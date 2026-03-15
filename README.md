@@ -5,6 +5,7 @@ Please, refer to me by my aliases: Nikko | Engineer | eusouaterra
 
 I love spending my free time vibe coding, usually evolving around:
 
+- Cyber security;
 - automation;
 - web development;
 - game development;
