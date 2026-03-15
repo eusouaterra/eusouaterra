@@ -3,7 +3,9 @@
 
 I like to be referred by my aliases on the internet:
 Nikko | Engineer | eusouaterra
+
 -
+
 I love spending my free time vibe coding, usually evolving around:
 
 - Cyber security;
@@ -13,7 +15,6 @@ I love spending my free time vibe coding, usually evolving around:
 - android development;
 - application development;
 - design;
--
 
 Thanks for passing by, have a nice day :)
 <!--
