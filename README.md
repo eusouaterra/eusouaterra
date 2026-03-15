@@ -1,10 +1,8 @@
 --
 Hello!
--
 
 Please, refer to me by my aliases: Nikko | Engineer | eusouaterra
 
--
 I love spending my free time vibe coding, usually evolving around:
 
 - automation;
@@ -13,7 +11,6 @@ I love spending my free time vibe coding, usually evolving around:
 - android development;
 - application development;
 - design;
--
 
 Thanks for passing by, have a nice day :)
 <!--
