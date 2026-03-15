@@ -1,10 +1,16 @@
-Hello! I like to be called by my aliases: ##Nikko | Engineer | eusouaterra
+Hello! I like to be called by my aliases: Nikko | Engineer | eusouaterra
 
-I love vibe coding on my free time
+I love spending my free time vibe coding, usually evolving around:
+-
+automation;
+web development;
+game development;
+android development;
+application development;
+design;
+-
 
-I'm decent at creating shell scripts, Lua, and Luau scripting.
-
-- Unix system junior
+Thanks for passing by, have a nice day :)
 <!--
 **eusouaterra/eusouaterra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
