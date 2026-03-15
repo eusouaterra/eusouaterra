@@ -1,13 +1,18 @@
-Hello! I like to be called by my aliases: Nikko | Engineer | eusouaterra
+--
+Hello!
+--
 
-I love spending my free time vibe coding, usually evolving around:
+Please, refer to me by my aliases: Nikko | Engineer | eusouaterra
+
 -
-automation;
-web development;
-game development;
-android development;
-application development;
-design;
+I love spending my free time vibe coding, usually evolving around:
+
+- automation;
+- web development;
+- game development;
+- android development;
+- application development;
+- design;
 -
 
 Thanks for passing by, have a nice day :)
