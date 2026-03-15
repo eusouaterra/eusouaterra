@@ -1,4 +1,4 @@
-Hello! on the internet I love to be referred by my aliases: Nikko | Engineer | eusouaterra
+Hello! I like to be called by my aliases: ##Nikko | Engineer | eusouaterra
 
 I love vibe coding on my free time
 
