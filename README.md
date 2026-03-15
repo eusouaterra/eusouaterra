@@ -1,4 +1,9 @@
-## Hi there 👋
+Hello! on the internet I love to be referred by my aliases: Nikko | Engineer | eusouaterra
+
+I love vibe coding on my free time, mayhaps my fixation specifics: android/game development and automation with different languages.
+
+Here are some of the languages I have practice over:
+!()[https://commons.wikimedia.org/wiki/File:Logo_C_sharp.svg]
 
 <!--
 **eusouaterra/eusouaterra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
