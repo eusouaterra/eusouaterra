@@ -1,9 +1,10 @@
-# Hello!
+# Hello I'm nikko \ engineer!
+I'm a junior software engineer exploring the depths of the web
 
 Love to be referred by my aliases online:
 Nikko | Engineer | eusouaterra
 
-my hobbies around my free time are mostly vibe coding, usually evolving around:
+love to practice around my free time:
 - Cyber security;
 - automation;
 - web development;
